@@ -1,0 +1,18 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.users-div{
+  /* position */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 20px;
+
+  /* colorization/attributes */
+  background-color: yellow;
+  color: white;
+  border-radius: 1rem;
+}
